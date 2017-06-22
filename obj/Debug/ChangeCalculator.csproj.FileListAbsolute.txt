@@ -1,0 +1,5 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.pdb
